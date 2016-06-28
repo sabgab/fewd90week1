@@ -1,9 +1,13 @@
 body{font-family: Geneva;
-  background-color: #13D1FF;
+  background-color: #ADAAE8;
   color: white;
 }
 
 h1{font-size: 40px;
-  color: #FF70B6
+  color: #6CFFAB
 
+}
+
+a{
+  color: white;
 }
